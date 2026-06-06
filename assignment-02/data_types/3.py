@@ -11,4 +11,4 @@ def count_words(input_string):
     return word_count
 input_string = input("Enter a string: ")
 result = count_words(input_string)
-print("Word Count:", result)
+print(result)
