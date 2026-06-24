@@ -97,3 +97,36 @@ exactly_one_store = amazon_only.union(flipkart_only)
 print(exactly_one_store)    
 
 
+# Task 4: Programming Languages Survey
+# Sample Data:
+# Batch 1: Python, Java, C, SQL
+# Batch 2: Python, Java, React, JavaScript
+
+
+batch_1={"Python", "Java", "C", "SQL"}
+batch_2={"Python", "Java", "React", "JavaScript"}
+
+
+# 1. Find languages known by both batches.
+common_languages = batch_1.intersection(batch_2)
+print(common_languages)
+
+
+#2. Find languages known only by Batch 1.
+batch_1_only = batch_1.difference(batch_2)
+print(batch_1_only)
+
+
+#3. Find languages known only by Batch 2.
+batch_2_only = batch_2.difference(batch_1)
+print(batch_2_only)
+
+
+#4. Check whether Batch 1 is a subset of Batch 2.
+is_subset = batch_1.issubset(batch_2)
+print(is_subset)
+
+
+#5. Check whether Batch 2 is a superset of Batch 1.
+is_superset = batch_2.issuperset(batch_1)
+print(is_superset)
