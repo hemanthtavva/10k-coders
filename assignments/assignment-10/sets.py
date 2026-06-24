@@ -130,3 +130,39 @@ print(is_subset)
 #5. Check whether Batch 2 is a superset of Batch 1.
 is_superset = batch_2.issuperset(batch_1)
 print(is_superset)
+
+
+# Task 5: Website Visitor Analysis
+# Sample Data:
+# Day 1 Visitors: user1, user2, user3, user4, user5
+# Day 2 Visitors: user3, user4, user5, user6, user7
+
+
+
+day_1_visitors = {"user1", "user2", "user3", "user4", "user5"}
+day_2_visitors = {"user3", "user4", "user5", "user6", "user7"}
+
+
+#1. Find returning visitors.
+returning_visitors = day_1_visitors.intersection(day_2_visitors)
+print(returning_visitors)
+
+
+#2. Find visitors who visited only on Day 1.
+day_1_only = day_1_visitors.difference(day_2_visitors)
+print(day_1_only)
+
+
+#3. Find visitors who visited only on Day 2.
+day_2_only = day_2_visitors.difference(day_1_visitors)
+print(day_2_only)
+
+
+#4. Find all unique visitors across both days.
+all_visitors = day_1_visitors.union(day_2_visitors)
+print(all_visitors)
+
+
+#5. Find visitors who visited on exactly one day.
+exactly_one_day = day_1_only.union(day_2_only)
+print(exactly_one_day)
