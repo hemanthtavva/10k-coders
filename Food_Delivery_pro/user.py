@@ -48,3 +48,44 @@ class User(ABC):
     @abstractmethod
     def display_profile(self):
         pass
+
+class Customer(User):
+    def __init__(self, user_id, name, phone, email, password, location):
+        super().__init__(user_id, name, phone, email, password)
+        self.__location = location
+
+
+    def get_location(self):
+        return self.__location
+
+    def set_location(self, location):
+        self.__location = location
+
+    # def display_profile(self):
+    #     print("\n===== CUSTOMER PROFILE =====")
+    #     print("ID      :", self.get_user_id())
+    #     print("Name    :", self.get_name())
+    #     print("Phone   :", self.get_phone())
+    #     print("Email   :", self.get_email())
+    #     print("Location:", self.__location)
+    #     print("============================")
+
+class restaurant_owner(User):
+    def __init__(self, user_id, name, phone, email, password, restaurant):
+        super().__init__(user_id, name, phone, email, password)
+        self.__restaurant = restaurant
+
+    def get_restaurant(self):
+        return self.__restaurant
+
+    def set_restaurant(self, restaurant):
+        self.__restaurant = restaurant
+
+    # def display_profile(self):
+    #     print("\n===== RESTAURANT OWNER PROFILE =====")
+    #     print("ID         :", self.get_user_id())
+    #     print("Name       :", self.get_name())
+    #     print("Phone      :", self.get_phone())
+    #     print("Email      :", self.get_email())
+    #     print("Restaurant :", self.__restaurant.get_name())
+    #     print("============================")

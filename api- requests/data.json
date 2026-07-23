@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "name": "iphone 13 pro",
+      "price": 2000
+    },
+    {
+      "id": "4",
+      "name": "iphone 15",
+      "price": 2000
+    },
+    {
+      "id": "HSHaHjTyV2Y",
+      "name": "iphone 13",
+      "price": 1200
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 999,
+      "id": "0XX5jjp4z5U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
