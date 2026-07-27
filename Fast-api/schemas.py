@@ -4,7 +4,7 @@ class ElectronicsCreate(BaseModel):
     name: str
     category: str
     brand: str
-    price: str
+    price: float
     stock :int
 
 
