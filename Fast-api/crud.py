@@ -42,8 +42,8 @@ def update_electronics(db: Session, electronics_id: int, electronics: schemas.El
     return db_electronics
 
 #delete
-def delete_electrnoics(db: Session, electrnoics_id:int):
-    db_electronics = get_electronics(db, electrnoics_id)
+def delete_electronics(db: Session, electronics_id:int):
+    db_electronics = get_electronics(db, electronics_id)
     if not db_electronics:
         return None
     db.delete(db_electronics)
