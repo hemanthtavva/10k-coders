@@ -16,7 +16,7 @@ def get_all_electronics(db: Session):
     return db.query(models.Electronics).all()
 
 #read one
-def get_electronics(db: session, electronics_id: int):
+def get_electronics(db: Session, electronics_id: int):
 
     return db.query(models.Electronics).filter(models.Electronics.id == electronics_id).first()
 
