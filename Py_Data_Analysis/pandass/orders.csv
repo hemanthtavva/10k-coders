@@ -1,51 +1,51 @@
 Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Price,City,Revenue
-ORD001,2026-01-05,CUST001,Laptop,Electronics,1.0,65000,Hyderabad,65000.0
-ORD002,2026-01-06,CUST002,Wireless Mouse,Accessories,2.0,1200,Bangalore,2400.0
-ORD003,2026-01-07,CUST003,Keyboard,Accessories,1.0,2500,Chennai,2500.0
-ORD004,2026-01-08,CUST004,Monitor,Electronics,1.0,18500,Mumbai,18500.0
-ORD005,2026-01-09,CUST005,Headphones,Audio,2.0,3500,Delhi,7000.0
-ORD006,2026-01-10,CUST006,USB Cable,Accessories,3.0,650,Pune,1950.0
-ORD007,2026-01-11,CUST007,Webcam,Electronics,1.0,4200,Hyderabad,4200.0
-ORD008,2026-01-12,CUST008,External SSD,Storage,,7800,Bangalore,
-ORD009,2026-01-13,CUST009,Smartphone,Electronics,1.0,42000,Chennai,42000.0
-ORD010,2026-01-14,CUST010,Power Bank,Accessories,2.0,1800,Mumbai,3600.0
-ORD011,2026-01-15,CUST011,Laptop Stand,Accessories,1.0,2200,Delhi,2200.0
-ORD012,2026-01-16,CUST012,Mechanical Keyboard,Accessories,1.0,5500,Pune,5500.0
-ORD013,2026-01-17,CUST013,Bluetooth Speaker,Audio,2.0,3200,Hyderabad,6400.0
-ORD014,2026-01-18,CUST014,Tablet,Electronics,1.0,28000,Bangalore,28000.0
-ORD015,2026-01-19,CUST015,Smart Watch,Wearables,1.0,8500,Chennai,8500.0
-ORD016,2026-01-20,CUST016,Wireless Earbuds,Audio,2.0,4500,Mumbai,9000.0
-ORD017,2026-01-21,CUST017,HDMI Cable,Accessories,3.0,900,Delhi,2700.0
-ORD018,2026-01-22,CUST018,Desk Lamp,Home & Office,1.0,1600,Pune,1600.0
-ORD019,2026-01-23,CUST019,Office Chair,Furniture,1.0,12500,Hyderabad,12500.0
-ORD020,2026-01-24,CUST020,Mouse Pad,Accessories,2.0,750,Bangalore,1500.0
-ORD021,2026-01-25,CUST021,Laptop Bag,Bags,1.0,2800,Chennai,2800.0
-ORD022,2026-01-26,CUST022,Printer,Electronics,1.0,15500,Mumbai,15500.0
-ORD023,2026-01-27,CUST023,Ink Cartridge,Printer Supplies,2.0,1800,Delhi,3600.0
-ORD024,2026-01-28,CUST024,Router,Networking,1.0,4200,Pune,4200.0
-ORD025,2026-01-29,CUST025,Smartphone Case,Accessories,2.0,950,Hyderabad,1900.0
-ORD026,2026-01-30,CUST026,Screen Protector,Accessories,3.0,500,Bangalore,1500.0
-ORD027,2026-02-01,CUST027,Power Adapter,Accessories,1.0,2400,Chennai,2400.0
-ORD028,2026-02-02,CUST028,Portable Hard Drive,Storage,1.0,6200,Mumbai,6200.0
-ORD029,2026-02-03,CUST029,Gaming Controller,Gaming,2.0,4800,Delhi,9600.0
-ORD030,2026-02-04,CUST030,Microphone,Audio,1.0,6500,Pune,6500.0
-ORD031,2026-02-05,CUST031,Smart TV,Electronics,1.0,52000,Hyderabad,52000.0
-ORD032,2026-02-06,CUST032,Soundbar,Audio,1.0,14500,Bangalore,14500.0
-ORD033,2026-02-07,CUST033,USB Hub,Accessories,2.0,1800,Chennai,3600.0
-ORD034,2026-02-08,CUST034,Graphics Tablet,Electronics,1.0,7200,Mumbai,7200.0
-ORD035,2026-02-09,CUST035,WiFi Extender,Networking,1.0,2800,Delhi,2800.0
-ORD036,2026-02-10,CUST036,Air Purifier,Home Appliances,1.0,11500,Pune,11500.0
-ORD037,2026-02-11,CUST037,Smart Bulb,Smart Home,4.0,850,Hyderabad,3400.0
-ORD038,2026-02-12,CUST038,Power Strip,Accessories,2.0,1400,Bangalore,2800.0
-ORD039,2026-02-13,CUST039,DSLR Camera,Cameras,1.0,68000,Chennai,68000.0
-ORD040,2026-02-14,CUST040,Camera Tripod,Camera Accessories,1.0,3500,Mumbai,3500.0
-ORD041,2026-02-15,CUST041,Memory Card,Storage,2.0,1600,Delhi,3200.0
-ORD042,2026-02-16,CUST042,Smartwatch Strap,Wearables,3.0,900,Pune,2700.0
-ORD043,2026-02-17,CUST043,VR Headset,Gaming,1.0,32000,Hyderabad,32000.0
-ORD044,2026-02-18,CUST044,Projector,Electronics,1.0,27500,Bangalore,27500.0
-ORD045,2026-02-19,CUST045,Projector Screen,Home & Office,1.0,6500,Chennai,6500.0
-ORD046,2026-02-20,CUST046,Noise Cancelling Headphones,Audio,1.0,9200,Mumbai,9200.0
-ORD047,2026-02-21,CUST047,USB Flash Drive,Storage,4.0,1100,Delhi,4400.0
-ORD048,2026-02-22,CUST048,Smart Doorbell,Smart Home,1.0,7800,Pune,7800.0
-ORD049,2026-02-23,CUST049,Security Camera,Security,2.0,6500,Hyderabad,13000.0
-ORD050,2026-02-24,CUST050,Smart Home Hub,Smart Home,1.0,5500,Bangalore,5500.0
+ORD051,2026-02-25,CUST051,Laptop,Electronics,1.0,72000.0,Hyderabad,72000.0
+ORD052,2026-02-26,CUST052,Wireless Mouse,Accessories,2.0,1400.0,Bangalore,2800.0
+ORD053,2026-02-27,CUST053,Keyboard,Accessories,,2800.0,Chennai,
+ORD054,2026-02-28,CUST054,Monitor,Electronics,1.0,,Mumbai,
+ORD055,2026-03-01,CUST055,Headphones,Audio,2.0,4200.0,,8400.0
+ORD056,2026-03-02,CUST056,USB Cable,Accessories,4.0,700.0,Pune,2800.0
+ORD057,2026-03-03,,Webcam,Electronics,1.0,4500.0,Hyderabad,4500.0
+ORD058,2026-03-04,CUST058,External SSD,Storage,1.0,8500.0,Bangalore,8500.0
+ORD059,2026-03-05,CUST059,Smartphone,Electronics,,45000.0,Chennai,
+ORD060,2026-03-06,CUST060,Power Bank,Accessories,2.0,2100.0,Mumbai,4200.0
+ORD061,2026-03-07,CUST061,Laptop Stand,,1.0,2500.0,Delhi,2500.0
+ORD062,2026-03-08,CUST062,Mechanical Keyboard,Accessories,1.0,6200.0,Pune,6200.0
+ORD063,2026-03-09,CUST063,Bluetooth Speaker,Audio,2.0,,Hyderabad,
+ORD064,2026-03-10,CUST064,Tablet,Electronics,1.0,31000.0,Bangalore,31000.0
+ORD065,2026-03-11,CUST065,Smart Watch,Wearables,1.0,9200.0,,9200.0
+ORD066,2026-03-12,CUST066,Wireless Earbuds,Audio,2.0,4800.0,Mumbai,9600.0
+ORD067,2026-03-13,CUST067,HDMI Cable,Accessories,3.0,1000.0,Delhi,3000.0
+ORD068,2026-03-14,CUST068,Desk Lamp,Home & Office,,1800.0,Pune,
+ORD069,2026-03-15,CUST069,Office Chair,Furniture,1.0,13800.0,Hyderabad,13800.0
+ORD070,2026-03-16,CUST070,Mouse Pad,Accessories,2.0,850.0,Bangalore,1700.0
+ORD071,2026-03-17,CUST071,Laptop Bag,Bags,1.0,,Chennai,
+ORD072,2026-03-18,CUST072,Printer,Electronics,1.0,16800.0,Mumbai,16800.0
+ORD073,2026-03-19,CUST073,Ink Cartridge,Printer Supplies,,1950.0,Delhi,
+ORD074,2026-03-20,CUST074,Router,Networking,1.0,4600.0,Pune,4600.0
+ORD075,2026-03-21,CUST075,Smartphone Case,Accessories,2.0,1100.0,,2200.0
+ORD076,2026-03-22,CUST076,Screen Protector,Accessories,3.0,550.0,Hyderabad,1650.0
+ORD077,2026-03-23,CUST077,Power Adapter,Accessories,1.0,2600.0,Bangalore,2600.0
+ORD078,2026-03-24,,Portable Hard Drive,Storage,1.0,6800.0,Chennai,6800.0
+ORD079,2026-03-25,CUST079,Gaming Controller,Gaming,2.0,5200.0,Mumbai,10400.0
+ORD080,2026-03-26,CUST080,Microphone,Audio,1.0,7200.0,Delhi,7200.0
+ORD081,2026-03-27,CUST081,Smart TV,Electronics,1.0,58000.0,Pune,58000.0
+ORD082,2026-03-28,CUST082,Soundbar,Audio,,15500.0,Hyderabad,
+ORD083,2026-03-29,CUST083,USB Hub,Accessories,2.0,,Bangalore,
+ORD084,2026-03-30,CUST084,Graphics Tablet,Electronics,1.0,7800.0,Chennai,7800.0
+ORD085,2026-03-31,CUST085,WiFi Extender,Networking,1.0,3200.0,Mumbai,3200.0
+ORD086,2026-04-01,CUST086,Air Purifier,Home Appliances,,12800.0,Delhi,
+ORD087,2026-04-02,CUST087,Smart Bulb,Smart Home,4.0,950.0,Pune,3800.0
+ORD088,2026-04-03,CUST088,Power Strip,Accessories,2.0,1550.0,,3100.0
+ORD089,2026-04-04,CUST089,DSLR Camera,Cameras,1.0,71000.0,Hyderabad,71000.0
+ORD090,2026-04-05,CUST090,Camera Tripod,Camera Accessories,1.0,3800.0,Bangalore,3800.0
+ORD091,2026-04-06,CUST091,Memory Card,Storage,2.0,1750.0,Chennai,3500.0
+ORD092,2026-04-07,CUST092,Smartwatch Strap,Wearables,3.0,,Mumbai,
+ORD093,2026-04-08,CUST093,VR Headset,Gaming,1.0,35000.0,Delhi,35000.0
+ORD094,2026-04-09,CUST094,Projector,Electronics,,29500.0,Pune,
+ORD095,2026-04-10,CUST095,Projector Screen,Home & Office,1.0,7200.0,Hyderabad,7200.0
+ORD096,2026-04-11,CUST096,Noise Cancelling Headphones,Audio,1.0,9800.0,,9800.0
+ORD097,2026-04-12,CUST097,USB Flash Drive,Storage,4.0,1250.0,Bangalore,5000.0
+ORD098,2026-04-13,,Smart Doorbell,Smart Home,1.0,8200.0,Chennai,8200.0
+ORD099,2026-04-14,CUST099,Security Camera,Security,2.0,6900.0,Mumbai,13800.0
+ORD100,2026-04-15,CUST100,Smart Home Hub,Smart Home,1.0,5900.0,Delhi,5900.0
